@@ -1,1 +1,1 @@
-# QA_Dicas_SeleniumWebDriver
+# QA_Dicas_SeleniumWebDriver.
