@@ -20,4 +20,7 @@
         ATENÇÃO: Dica.
         (( Nomes de classe deverão ter seu nome sempre iniciados por letras maiúsculas, e metódos deverão ser escritos sempre, com a primeira letra
         minúsculas, caso seja um nome composto, as outras palavras deverão ser com a primeira letra maiúscula.))
+
+        Utilizando a IDE de java, ou Spring Tools Suite, pode ser inserir uma linha de impressão através do código:
+            sysout + ctrl + backSpace
  */
