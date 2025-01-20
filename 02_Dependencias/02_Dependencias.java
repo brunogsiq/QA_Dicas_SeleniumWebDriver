@@ -14,3 +14,8 @@
 
     Chromium Driver também será necessário baixar, de acordo com a versão do chrome da própria máquina local.
  */
+
+ /*
+    Selenide: https://selenide.org/
+        Poderemos atuar com uma programação que lembra o Cypress
+*/
